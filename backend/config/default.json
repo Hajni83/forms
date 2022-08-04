@@ -1,0 +1,7 @@
+{
+  "database":{
+    "user":"Hajni",
+    "pass":"2OIPYobdtZkpfWP5",
+    "host":"cluster0.zjyp2.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
